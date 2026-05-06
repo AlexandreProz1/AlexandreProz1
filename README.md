@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexandre</h1>
+<h1 align="center">Oi 👋, Eu sou o Alexandre</h1>
 <h3 align="center">Developer</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreProz1&layout=compact&langs_count=16&theme=radical)
