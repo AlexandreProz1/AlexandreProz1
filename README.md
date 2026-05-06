@@ -1,3 +1,7 @@
+Oi eu sou o alexandre
+
+
+
 <h1 align="center">Oi 👋, Eu sou o Alexandre</h1>
 <h3 align="center">Developer</h3>
 
